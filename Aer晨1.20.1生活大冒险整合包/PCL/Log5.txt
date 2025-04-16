@@ -1,0 +1,51 @@
+[22:37:20.953] [Start] 程序版本：Release 2.6.15（317）
+[22:37:20.968] [Start] 识别码：D8A3-A5F9-1C63-0228
+[22:37:20.968] [Start] 程序路径：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:37:21.019] [Start] 第一阶段加载用时：234 ms
+[22:37:21.611] [Start] 版本号从 355 降低到 317
+[22:37:21.731] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:37:21.732] [Start] 第二阶段加载用时：641 ms
+[22:37:21.760] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:37:22.462] [System] 窗口已置顶，位置：(530, 280), 860 x 520
+[22:37:22.466] [Start] 第三阶段加载用时：125 ms
+[22:37:22.466] [Animation] 动画线程开始
+[22:37:22.468] [Start] 加载 DLL：Json
+[22:37:22.468] [System] 获取资源：Json
+[22:37:22.485] [Launch] Minecraft 文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:37:22.541] [Java] 缓存中有 3 个可用的 Java：
+[22:37:22.542] [Java]  - JDK 17 (17.0.8)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:37:22.542] [Java]  - JRE 8 (8.0.60)，64 位：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[22:37:22.542] [Java]  - JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:37:22.751] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:37:22.752] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:37:22.753] [Server] 正在连接到 PCL 服务器
+[22:37:22.756] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:37:22.762] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1744727843-74855372-0-1e6feb7a416350aee313b9269203bee4，超时 10000ms
+[22:37:22.762] [UI] 弹出提示：无效的 Minecraft 文件夹：D:\RogueMayhem\.minecraft\
+[22:37:22.783] [Page] 实例化：清空自定义主页 UI，来源为空
+[22:37:22.785] [Minecraft] 启动按钮：Minecraft 版本：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:37:22.804] [Animation] 两个动画帧间隔 313 ms
+[22:37:23.018] [Server] 服务器公告：163|354|355|5，无需更新
+[22:37:23.025] [Server] 重要等级 0，更新公告 True
+[22:37:23.025] [System] 更新已开始，静默：False
+[22:37:23.025] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:37:23.029] [Loader] 加载器 启动器更新 状态改变：Loading
+[22:37:23.031] [Taskbar] 启动器更新 已加入任务列表
+[22:37:23.032] [Loader] 加载器 下载更新文件 状态改变：Loading
+[22:37:23.067] [UI] 弹出提示：PCL 正在下载更新，更新结束时将自动重启，请稍候！
+[22:37:23.137] [Download] Update.zip 84#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/update/Publi3.zip?sign=1744727843-4574aa49-0-b939ea1d6fd3cd1ad637af7bd3f6a700
+[22:37:23.164] [Download] Update.zip：文件大小 2518526 B（2.4 M）
+[22:37:23.187] [System] DPI：96，系统版本：10.0.19045.0，PCL 位置：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:37:23.246] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:37:27.183] [Download] Update.zip：已完成，剩余文件 0
+[22:37:27.183] [Loader] 加载器 下载更新文件 状态改变：Finished
+[22:37:27.184] [Loader] 加载器 安装更新 状态改变：Loading
+[22:37:27.186] [System] 无需清理目标更新文件：D:\Aer晨1.20.1生活大冒险整合包\PCL\Plain Craft Launcher 2.exe
+[22:37:27.219] [System] 更新文件解压完成
+[22:37:27.219] [System] 更新程序启动，参数：--update 92016 "Plain Craft Launcher 2.exe" "Plain Craft Launcher 2.exe" True
+[22:37:27.351] [System] 收到关闭指令
+[22:37:27.351] [System] 已由于更新强制结束程序
+[22:37:27.351] [Loader] 加载器 安装更新 状态改变：Finished
+[22:37:27.353] [Loader] 加载器 启动器更新 状态改变：Finished
+[22:37:27.407] [Taskbar] 启动器更新 已移出任务列表
+[22:37:27.589] [System] 程序已退出，返回值：Success

@@ -1,0 +1,269 @@
+[22:37:29.604] [Start] 程序版本：Release 2.9.3 (355)
+[22:37:29.615] [Start] 识别码：D8A3-A5F9-1C63-0228，已解锁反馈主题
+[22:37:29.615] [Start] 程序路径：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:37:29.615] [Start] 系统编码：gb2312 (936, GBK=True)
+[22:37:29.621] [Start] 管理员权限：True
+[22:37:29.691] [Start] 第一阶段加载用时：250 ms
+[22:37:30.227] [Start] 版本号从 317 升高到 355
+[22:37:30.230] [Start] 从老 PCL 迁移版本隔离
+[22:37:30.337] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:37:30.337] [Start] 第二阶段加载用时：578 ms
+[22:37:30.356] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:37:31.011] [System] 窗口已置顶，位置：(510, 265), 900 x 550
+[22:37:31.015] [Animation] 动画线程开始
+[22:37:31.015] [Start] 第三阶段加载用时：109 ms
+[22:37:31.017] [Start] 加载 DLL：Json
+[22:37:31.017] [System] 获取资源：Json
+[22:37:31.035] [Launch] Minecraft 文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:37:31.081] [Java] 缓存中有 3 个可用的 Java：
+[22:37:31.083] [Java]  - JDK 17 (17.0.8)：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:37:31.083] [Java]  - JRE 8 (8.0.60)：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[22:37:31.083] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:37:31.185] [Minecraft] 版本隔离初始化（1.20.1-Forge_47.2.21）：版本文件夹下存在 mods 或 saves 文件夹，自动开启
+[22:37:31.300] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:37:31.301] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:37:31.301] [Server] 正在连接到 PCL 服务器
+[22:37:31.301] [System] 开始清理任务缓存文件夹
+[22:37:31.302] [System] 已清理任务缓存文件夹
+[22:37:31.305] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:37:31.311] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1744727851-6b3ea974-0-102ec6f15eef06c8fababdb613f7aead，超时 10000ms
+[22:37:31.314] [Page] 实例化：清空自定义主页 UI，来源为空
+[22:37:31.315] [Minecraft] 启动按钮：Minecraft 版本：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:37:31.330] [Animation] 两个动画帧间隔 297 ms
+[22:37:31.530] [Server] 服务器公告：163|354|355|5，无需更新
+[22:37:31.534] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:37:31.735] [System] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:37:31.749] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:37:54.742] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:37:54.758] [Launch] 预检测已通过
+[22:37:54.776] [Download] 开始后台检查资源文件索引
+[22:37:54.777] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:37:54.778] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:37:54.779] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:37:54.779] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:37:54.780] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:37:54.780] [Loader] 加载器 登录 状态改变：Loading
+[22:37:54.780] [Loader] 加载器 补全文件 状态改变：Loading
+[22:37:54.781] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:37:54.781] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:37:54.781] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:37:54.781] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:37:54.781] [Taskbar] Minecraft 启动 已加入任务列表
+[22:37:54.781] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:37:54.783] [Launch] 登录加载已开始
+[22:37:54.783] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[22:37:54.784] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[22:37:54.792] [Launch] 登录方式：Authlib-Injector（420009692@qq.com）
+[22:37:54.793] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[22:37:54.795] [Launch] 登录开始（Login, Auth）
+[22:37:54.798] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/authenticate），最大超时 15000
+[22:37:54.800] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:37:54.800] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:37:54.800] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:37:54.801] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:37:54.841] [Download] 5.json 112#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/38deaa95b91b2b5dbbdebd62a8329efcf0fd3c90/5.json
+[22:37:54.871] [Minecraft] 获取支持库列表：1.20.1-Forge_47.2.21
+[22:37:54.923] [Launch] Mojang 推荐使用 Java 17
+[22:37:54.926] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[22:37:54.934] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\
+[22:37:54.938] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:37:54.945] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:37:54.949] [Java] 排序后的 Java 优先顺序：
+[22:37:54.949] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:37:54.949] [Java]  - JDK 17 (17.0.8)：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:37:54.952] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:37:54.973] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:37:54.973] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:37:54.975] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:37:54.975] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:37:54.982] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (403) 已禁止。，https://littleskin.cn/api/yggdrasil/authserver/authenticate）
+{"error":"ForbiddenOperationException","errorMessage":"用户名或密码错误。Incorrect username or password."}
+   错误类型：PCL.ModNet+ResponsedWebException
+→ 远程服务器返回错误: (403) 已禁止。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   错误类型：System.Net.WebException
+[22:37:54.983] 登录失败原始错误信息：服务器返回错误（ProtocolError，远程服务器返回错误: (403) 已禁止。，https://littleskin.cn/api/yggdrasil/authserver/authenticate）
+{"error":"ForbiddenOperationException","errorMessage":"用户名或密码错误。Incorrect username or password."}
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 PCL.ModNet.NetRequestRetry(String Url, String Method, Object Data, String ContentType, Boolean DontRetryOnRefused, Dictionary`2 Headers)
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   错误类型：PCL.ModNet+ResponsedWebException
+→ 远程服务器返回错误: (403) 已禁止。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   错误类型：System.Net.WebException
+[22:37:55.036] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[22:37:55.038] [Loader] 加载器 源码获取 115# 状态改变：Loading
+[22:37:55.058] [Download] download.txt 118#：开始，起始点 0，https://authlib-injector.yushi.moe/artifact/latest.json
+[22:37:55.176] [Launch] 密码错误，退出登录
+[22:37:55.176] [Launch] 登录失败：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+[22:37:55.176] 加载线程 Loader Login Auth (18) 出错，已完成 5%：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:37:55.176] [Loader] 加载器 Loader Login Auth 状态改变：Failed
+[22:37:55.180] 加载线程 登录 (8) 出错，已完成 5%：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:37:55.180] [Loader] 加载器 登录 状态改变：Failed
+[22:37:55.180] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[22:37:55.180] [Loader] 加载器 获取 Java 状态改变：Aborted
+[22:37:55.181] [Loader] 加载器 补全文件 状态改变：Aborted
+[22:37:55.181] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Aborted
+[22:37:55.181] [Loader] 加载器 分析缺失支持库文件 状态改变：Aborted
+[22:37:55.181] [Loader] 加载器 下载支持库文件 状态改变：Aborted
+[22:37:55.181] [Download] 下载支持库文件 已取消！
+[22:37:55.182] [Loader] 加载器 源码获取 115# 状态改变：Aborted
+[22:37:55.182] [Download] 源码获取 115# 已取消！
+[22:37:55.183] [Download] download.txt：状态 Error，剩余文件 1
+[22:37:55.183] [Loader] 加载线程 分析缺失支持库文件 (16) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:37:55.198] 加载线程 Loader Launch (3) 出错，已完成 2%：登录失败
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:37:55.198] [Loader] 加载器 Loader Launch 状态改变：Failed
+[22:37:55.202] [Loader] 加载线程 获取 Java (9) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:37:55.220] [Taskbar] Minecraft 启动 已移出任务列表
+[22:37:55.226] [Control] 普通弹窗：启动失败
+登录失败：用户名或密码错误。Incorrect username or password.
+[22:37:55.366] [Download] download.txt 118#：中断
+[22:37:55.926] [Download] 5.json 112#：文件大小 411581（402 K）
+[22:37:56.187] [Download] 5.json：已完成，剩余文件 0
+[22:37:56.188] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[22:37:56.188] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[22:37:56.189] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\5.json
+[22:37:56.189] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[22:37:56.189] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[22:37:56.213] [Download] 速度下限已提升到 366 K
+[22:37:56.518] [Control] 按下按钮：确定
+[22:38:06.034] [Control] 按下按钮：启动游戏
+[22:38:06.034] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:38:06.039] [Launch] 预检测已通过
+[22:38:06.039] [Download] 开始后台检查资源文件索引
+[22:38:06.039] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:38:06.039] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:38:06.039] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:38:06.039] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:38:06.039] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:38:06.039] [Launch] Mojang 推荐使用 Java 17
+[22:38:06.039] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[22:38:06.039] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\
+[22:38:06.039] [Download] 无需更新资源文件索引，取消
+[22:38:06.039] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Aborted
+[22:38:06.039] [Loader] 加载器 后台更新资源文件索引 状态改变：Aborted
+[22:38:06.039] [Loader] 加载器 后台下载资源文件索引 状态改变：Aborted
+[22:38:06.039] [Download] 后台下载资源文件索引 已取消！
+[22:38:06.039] [Loader] 加载线程 后台分析资源文件索引地址 (29) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:38:06.041] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:38:06.042] [Loader] 加载器 登录 状态改变：Loading
+[22:38:06.042] [Loader] 加载器 补全文件 状态改变：Loading
+[22:38:06.042] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:38:06.042] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:38:06.042] [Launch] 登录加载已开始
+[22:38:06.042] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[22:38:06.042] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:38:06.042] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:38:06.042] [Taskbar] Minecraft 启动 已加入任务列表
+[22:38:06.042] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:38:06.042] [Launch] 登录方式：Authlib-Injector（420009692@qq.com）
+[22:38:06.042] [Launch] 登录开始（Login, Auth）
+[22:38:06.042] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/authenticate），最大超时 15000
+[22:38:06.046] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:38:06.049] [Java] 排序后的 Java 优先顺序：
+[22:38:06.049] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:38:06.049] [Java]  - JDK 17 (17.0.8)：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:38:06.049] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:38:06.049] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:38:06.050] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:38:06.050] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:38:06.050] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:38:06.094] [Minecraft] 获取支持库列表：1.20.1-Forge_47.2.21
+[22:38:06.130] [Java] 最终选定的 Java：JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:38:06.130] [Launch] 选择的 Java：JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:38:06.130] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:38:06.135] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (403) 已禁止。，https://littleskin.cn/api/yggdrasil/authserver/authenticate）
+{"error":"ForbiddenOperationException","errorMessage":"用户名或密码错误。Incorrect username or password."}
+   错误类型：PCL.ModNet+ResponsedWebException
+→ 远程服务器返回错误: (403) 已禁止。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   错误类型：System.Net.WebException
+[22:38:06.135] 登录失败原始错误信息：服务器返回错误（ProtocolError，远程服务器返回错误: (403) 已禁止。，https://littleskin.cn/api/yggdrasil/authserver/authenticate）
+{"error":"ForbiddenOperationException","errorMessage":"用户名或密码错误。Incorrect username or password."}
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 PCL.ModNet.NetRequestRetry(String Url, String Method, Object Data, String ContentType, Boolean DontRetryOnRefused, Dictionary`2 Headers)
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   错误类型：PCL.ModNet+ResponsedWebException
+→ 远程服务器返回错误: (403) 已禁止。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   错误类型：System.Net.WebException
+[22:38:06.136] [Launch] 密码错误，退出登录
+[22:38:06.136] [Launch] 登录失败：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+[22:38:06.136] 加载线程 Loader Login Auth (33) 出错，已完成 5%：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:38:06.136] [Loader] 加载器 Loader Login Auth 状态改变：Failed
+[22:38:06.138] 加载线程 登录 (31) 出错，已完成 5%：$登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:38:06.138] [Loader] 加载器 登录 状态改变：Failed
+[22:38:06.138] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[22:38:06.138] [Loader] 加载器 补全文件 状态改变：Aborted
+[22:38:06.138] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Aborted
+[22:38:06.138] [Loader] 加载器 分析缺失支持库文件 状态改变：Aborted
+[22:38:06.138] [Loader] 加载器 下载支持库文件 状态改变：Aborted
+[22:38:06.138] [Download] 下载支持库文件 已取消！
+[22:38:06.138] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Aborted
+[22:38:06.138] [Loader] 加载器 分析缺失资源文件 状态改变：Aborted
+[22:38:06.138] [Loader] 加载器 下载资源文件 状态改变：Aborted
+[22:38:06.138] [Download] 下载资源文件 已取消！
+[22:38:06.154] [Taskbar] Minecraft 启动 已移出任务列表
+[22:38:06.205] [Loader] 加载线程 分析缺失资源文件 (28) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:38:06.238] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[22:38:06.238] [Loader] 加载器 源码获取 177# 状态改变：Loading
+[22:38:06.239] [Loader] 加载器 源码获取 177# 状态改变：Aborted
+[22:38:06.239] [Download] 源码获取 177# 已取消！
+[22:38:06.239] [Download] download.txt：状态 Error，剩余文件 0
+[22:38:06.239] [Loader] 加载线程 分析缺失支持库文件 (32) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:38:06.258] 加载线程 Loader Launch (9) 出错，已完成 2%：登录失败
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+→ $登录失败：用户名或密码错误。Incorrect username or password.
+   在 PCL.ModLaunch.McLoginRequestLogin(LoaderTask`2& Data)
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[22:38:06.258] [Loader] 加载器 Loader Launch 状态改变：Failed
+[22:38:06.275] [Control] 普通弹窗：启动失败
+登录失败：用户名或密码错误。Incorrect username or password.
+[22:38:07.355] [Control] 按下按钮：确定
+[22:38:10.398] [Control] 按下图标按钮：BtnTitleClose
+[22:38:10.401] [System] 收到关闭指令
+[22:38:10.625] [System] 程序已退出，返回值：Success

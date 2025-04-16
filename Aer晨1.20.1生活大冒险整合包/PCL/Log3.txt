@@ -1,0 +1,204 @@
+[22:48:39.250] [Start] 程序版本：Release 2.9.3 (355)
+[22:48:39.263] [Start] 识别码：D8A3-A5F9-1C63-0228，已解锁反馈主题
+[22:48:39.263] [Start] 程序路径：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:48:39.263] [Start] 系统编码：gb2312 (936, GBK=True)
+[22:48:39.268] [Start] 管理员权限：True
+[22:48:39.315] [Start] 第一阶段加载用时：250 ms
+[22:48:39.974] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:48:39.975] [Start] 第二阶段加载用时：593 ms
+[22:48:39.994] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:48:40.649] [System] 窗口已置顶，位置：(510, 265), 900 x 550
+[22:48:40.654] [Animation] 动画线程开始
+[22:48:40.654] [Start] 第三阶段加载用时：125 ms
+[22:48:40.655] [Start] 加载 DLL：Json
+[22:48:40.656] [System] 获取资源：Json
+[22:48:40.674] [Launch] Minecraft 文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:48:40.716] [Java] 缓存中有 3 个可用的 Java：
+[22:48:40.717] [Java]  - JDK 17 (17.0.8)：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:48:40.717] [Java]  - JRE 8 (8.0.60)：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[22:48:40.717] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:48:40.783] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[22:48:40.788] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[22:48:40.830] [Page] 实例化：清空自定义主页 UI，来源为空
+[22:48:40.845] [Skin] 载入头像成功：Loader Skin Auth
+[22:48:40.856] [Minecraft] 启动按钮：Minecraft 版本：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:48:40.859] [Loader] 加载器 登录 状态改变：Loading
+[22:48:40.862] [Launch] 登录加载已开始
+[22:48:40.863] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[22:48:40.865] [Launch] 登录方式：Authlib-Injector（420009692@qq.com）
+[22:48:40.866] [Launch] 验证登录开始（Validate, Auth）
+[22:48:40.869] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[22:48:40.934] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:48:40.935] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:48:40.936] [Server] 正在连接到 PCL 服务器
+[22:48:40.936] [System] 开始清理任务缓存文件夹
+[22:48:40.938] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:48:40.941] [System] 已清理任务缓存文件夹
+[22:48:40.945] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1744728521-2ffdbf87-0-e0234b32cb33af979cdc3baa93b43d96，超时 10000ms
+[22:48:41.107] [Server] 服务器公告：163|354|355|5，无需更新
+[22:48:41.112] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:48:41.263] [Launch] 验证登录成功（Validate, Auth）
+[22:48:41.263] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[22:48:41.277] [Launch] 登录加载已结束
+[22:48:41.277] [Loader] 加载器 登录 状态改变：Finished
+[22:48:41.355] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:48:41.382] [System] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:48:45.085] [Control] 按下按钮：版本选择
+[22:48:45.100] [Control] 切换主要页面：VersionSelect, 0
+[22:48:45.342] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:48:45.344] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\Administrator\AppData\Roaming\.minecraft\
+[22:48:45.355] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[22:48:45.360] [Minecraft] 文件夹列表变更，重载所有版本
+[22:48:45.387] [Setup] 当前选择的 Minecraft 版本：1.20.1-Forge_47.2.21
+[22:48:45.387] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:48:45.448] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[22:48:47.312] [Control] 按下单选列表项：当前文件夹
+[22:48:48.462] [Control] 按下图标按钮：BtnTitleInner
+[22:48:48.463] [Control] 切换主要页面：Launch, -1
+[22:48:49.531] [Control] 按下按钮：启动游戏
+[22:48:49.532] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:48:49.546] [Launch] 预检测已通过
+[22:48:49.561] [Download] 开始后台检查资源文件索引
+[22:48:49.561] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:48:49.562] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:48:49.563] [Loader] 加载器 登录 状态改变：Waiting
+[22:48:49.563] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:48:49.563] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:48:49.563] [Loader] 加载器 登录 状态改变：Loading
+[22:48:49.563] [Loader] 加载器 补全文件 状态改变：Loading
+[22:48:49.564] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:48:49.564] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:48:49.564] [Launch] 登录加载已开始
+[22:48:49.564] [Launch] 登录加载已结束
+[22:48:49.564] [Loader] 加载器 登录 状态改变：Finished
+[22:48:49.564] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:48:49.564] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:48:49.564] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:48:49.564] [Download] 版本 1.20.1-Forge_47.2.21 对应的资源文件索引为 5
+[22:48:49.564] [Taskbar] Minecraft 启动 已加入任务列表
+[22:48:49.567] [Download] 无需更新资源文件索引，取消
+[22:48:49.567] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Aborted
+[22:48:49.567] [Loader] 加载器 后台更新资源文件索引 状态改变：Aborted
+[22:48:49.568] [Loader] 加载器 后台下载资源文件索引 状态改变：Aborted
+[22:48:49.568] [Download] 后台下载资源文件索引 已取消！
+[22:48:49.568] [Loader] 加载线程 后台分析资源文件索引地址 (8) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[22:48:49.574] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:48:49.575] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:48:49.577] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:48:49.577] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:48:49.635] [Minecraft] 获取支持库列表：1.20.1-Forge_47.2.21
+[22:48:49.714] [Launch] Mojang 推荐使用 Java 17
+[22:48:49.717] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[22:48:49.723] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\
+[22:48:49.726] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:48:49.732] [Java] 开始完全遍历查找：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:48:49.736] [Java] 排序后的 Java 优先顺序：
+[22:48:49.736] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:48:49.736] [Java]  - JDK 17 (17.0.8)：C:\Users\Administrator\AppData\Roaming\.minecraft\cache\java\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[22:48:49.738] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:48:49.746] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:48:49.746] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:48:49.746] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:48:49.746] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:48:49.800] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[22:48:49.803] [Loader] 加载器 源码获取 223# 状态改变：Loading
+[22:48:49.812] [Java] 最终选定的 Java：JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:48:49.812] [Launch] 选择的 Java：JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:48:49.812] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:48:49.860] [Download] download.txt 226#：开始，起始点 0，https://authlib-injector.yushi.moe/artifact/latest.json
+[22:48:50.119] [Download] download.txt 226#：文件大小 287（287 B）
+[22:48:50.125] [Download] download.txt：已完成，剩余文件 0
+[22:48:50.125] [Loader] 加载器 源码获取 223# 状态改变：Finished
+[22:48:50.135] [Minecraft] Authlib-Injector 需要更新：https://authlib-injector.yushi.moe/artifact/53/authlib-injector-1.2.5.jar
+[22:48:50.135] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[22:48:50.135] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[22:48:50.150] [Download] authlib-injector.jar 229#：开始，起始点 0，https://authlib-injector.yushi.moe/artifact/53/authlib-injector-1.2.5.jar
+[22:48:50.216] [Download] authlib-injector.jar 229#：文件大小 341970（334 K）
+[22:48:50.537] [Download] authlib-injector.jar：已完成，剩余文件 0
+[22:48:50.537] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[22:48:50.537] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[22:48:50.537] [Loader] 加载器 补全文件 状态改变：Finished
+[22:48:50.537] [Loader] 加载器 获取启动参数 状态改变：Loading
+[22:48:50.539] [Launch] 开始获取 Minecraft 启动参数
+[22:48:50.539] [Launch] 获取新版 JVM 参数
+[22:48:50.543] [Launch] 当前剩余内存：5.5G
+[22:48:50.545] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil，超时 10000ms
+[22:48:50.563] [Java] 选定的 Java Wrapper 路径：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[22:48:50.564] [System] 获取资源：JavaWrapper
+[22:48:50.565] [Launch] 新版 JVM 参数获取成功：
+[22:48:50.565] [Launch] -javaagent:"C:\Users\Administrator\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIENvbm5lY3QiLCJpbXBsZW1lbnRhdGlvblZlcnNpb24iOiIwLjAuNiIsImxpbmtzIjp7ImFubm91bmNlbWVudCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi9hcGkvYW5ub3VuY2VtZW50cyIsImhvbWVwYWdlIjoiaHR0cHM6Ly9saXR0bGVza2luLmNuIiwicmVnaXN0ZXIiOiJodHRwczovL2xpdHRsZXNraW4uY24vYXV0aC9yZWdpc3RlciJ9LCJmZWF0dXJlLm5vX2VtYWlsX2xvZ2luIjp0cnVlLCJmZWF0dXJlLm9wZW5pZF9jb25maWd1cmF0aW9uX3VybCI6Imh0dHBzOi8vb3Blbi5saXR0bGVza2luLmNuLy53ZWxsLWtub3duL29wZW5pZC1jb25maWd1cmF0aW9uIn0sInNraW5Eb21haW5zIjpbImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprYy91SC93eW9zWW56dzN4YWF6SnQ4N2pUSGhcbko4QlBNeENlUU1veUVkUm9TM0puajFHMEtlemo0QTJiNjFQSkpNMURwdkRBY3FRQllzclNkcEJKKzUyTWpvR1NcbnZKb2VRTzVYVWxKVlFtMjEvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83L1NCZlh6eVJQVHpoUFZcbjJuSHE3S0pxZDhJSXJsdHNsdjZpLzRGRU04MWl2Uy9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTi9INlA5dWtGZWc1U21HQzUrd21VUFpaQ3ROQkxyOG84c0k1SDdRaEs3Tmd3Q2FHRm9ZdWlBR0xcbmd6M2svM1l3SjQwQmJ3UWF5UTJnSXFlbnorWE9GSUFsYWp2Ky9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaC96RHo4UU1FeWl1ald2VWtQaFpzOWZoNmZpbVVHeHRtOG1GSVBDdFBKVlhqZVlcbndEM0x2dDNhSUIxSkhkVVRKUjNlRWM0ZUlhVEtNd01QeUpSelZuNXpLc2l0YVp6M25uL2NPQS93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=${natives_directory} -Djna.tmpdir=${natives_directory} -Dorg.lwjgl.system.SharedLibraryExtractPath=${natives_directory} -Dio.netty.native.workdir=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.6/asm-9.6.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1228m -Xmx8192m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[22:48:50.565] [Launch] 获取新版 Game 参数
+[22:48:50.566] [Launch] 新版 Game 参数获取成功
+[22:48:50.568] [Minecraft] 获取支持库列表：1.20.1-Forge_47.2.21
+[22:48:50.583] [Launch] Minecraft 启动参数：
+[22:48:50.585] [Launch] -javaagent:"C:\Users\Administrator\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIENvbm5lY3QiLCJpbXBsZW1lbnRhdGlvblZlcnNpb24iOiIwLjAuNiIsImxpbmtzIjp7ImFubm91bmNlbWVudCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi9hcGkvYW5ub3VuY2VtZW50cyIsImhvbWVwYWdlIjoiaHR0cHM6Ly9saXR0bGVza2luLmNuIiwicmVnaXN0ZXIiOiJodHRwczovL2xpdHRsZXNraW4uY24vYXV0aC9yZWdpc3RlciJ9LCJmZWF0dXJlLm5vX2VtYWlsX2xvZ2luIjp0cnVlLCJmZWF0dXJlLm9wZW5pZF9jb25maWd1cmF0aW9uX3VybCI6Imh0dHBzOi8vb3Blbi5saXR0bGVza2luLmNuLy53ZWxsLWtub3duL29wZW5pZC1jb25maWd1cmF0aW9uIn0sInNraW5Eb21haW5zIjpbImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprYy91SC93eW9zWW56dzN4YWF6SnQ4N2pUSGhcbko4QlBNeENlUU1veUVkUm9TM0puajFHMEtlemo0QTJiNjFQSkpNMURwdkRBY3FRQllzclNkcEJKKzUyTWpvR1NcbnZKb2VRTzVYVWxKVlFtMjEvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83L1NCZlh6eVJQVHpoUFZcbjJuSHE3S0pxZDhJSXJsdHNsdjZpLzRGRU04MWl2Uy9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTi9INlA5dWtGZWc1U21HQzUrd21VUFpaQ3ROQkxyOG84c0k1SDdRaEs3Tmd3Q2FHRm9ZdWlBR0xcbmd6M2svM1l3SjQwQmJ3UWF5UTJnSXFlbnorWE9GSUFsYWp2Ky9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaC96RHo4UU1FeWl1ald2VWtQaFpzOWZoNmZpbVVHeHRtOG1GSVBDdFBKVlhqZVlcbndEM0x2dDNhSUIxSkhkVVRKUjNlRWM0ZUlhVEtNd01QeUpSelZuNXpLc2l0YVp6M25uL2NPQS93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path="D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives" -Djna.tmpdir="D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives" -Dorg.lwjgl.system.SharedLibraryExtractPath="D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives" -Dio.netty.native.workdir="D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=355 -cp "D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\ow2\asm\asm\9.6\asm-9.6.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\ow2\asm\asm-commons\9.6\asm-commons-9.6.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\ow2\asm\asm-tree\9.6\asm-tree-9.6.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\ow2\asm\asm-util\9.6\asm-util-9.6.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\ow2\asm\asm-analysis\9.6\asm-analysis-9.6.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\coremods\5.1.2\coremods-5.1.2.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\fmlloader\1.20.1-47.2.21\fmlloader-1.20.1-47.2.21.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries\net\minecraftforge\fmlearlydisplay\1.20.1-47.2.21\fmlearlydisplay-1.20.1-47.2.21.jar;D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.20.1-Forge_47.2.21.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries" -p "D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/org/ow2/asm/asm/9.6/asm-9.6.jar;"D:\Aer晨1.20.1生活大冒险整合包\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1228m -Xmx8192m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username Arits --version 1.20.1-Forge_47.2.21 --gameDir "D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21" --assetsDir "D:\Aer晨1.20.1生活大冒险整合包\.minecraft\assets" --assetIndex 5 --uuid c5ae826f83194c6f89cd06b96779a860 --accessToken eyJhb*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************SaMis --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL-Aer晨【生活大冒险】 --width 873 --height 508 --launchTarget forgeclient --fml.forgeVersion 47.2.21 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412 -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 
+[22:48:50.585] [Loader] 加载器 获取启动参数 状态改变：Finished
+[22:48:50.589] [Loader] 加载器 解压文件 状态改变：Loading
+[22:48:50.590] [Launch] 正在解压 Natives 文件
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\glfw.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\jemalloc.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\jna15548238194633122752.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\jna15548238194633122752.dll.x
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\lwjgl.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\lwjgl_opengl.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\lwjgl_stb.dll
+[22:48:50.591] [Launch] 删除：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives\OpenAL.dll
+[22:48:50.592] [Loader] 加载器 解压文件 状态改变：Finished
+[22:48:50.642] [Loader] 加载器 预启动处理 状态改变：Loading
+[22:48:50.648] [System] 已调整显卡设置：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:48:50.648] [System] 已调整显卡设置：D:\Aer晨1.20.1生活大冒险整合包\Plain Craft Launcher 2.exe
+[22:48:50.648] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[22:48:50.648] [Loader] 加载器 预启动处理 状态改变：Finished
+[22:48:50.661] [Download] 速度下限已提升到 303 K
+[22:48:50.703] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[22:48:50.712] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[22:48:50.761] [Loader] 加载器 启动进程 状态改变：Loading
+[22:48:50.840] [Launch] 已启动游戏进程：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:48:50.841] [Loader] 加载器 启动进程 状态改变：Finished
+[22:48:50.898] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[22:48:50.901] [Launch] 
+[22:48:50.901] [Launch] ~ 基础参数 ~
+[22:48:50.901] [Launch] PCL 版本：Release 2.9.3 (355)
+[22:48:50.901] [Launch] 游戏版本：1.20.1, Forge 47.2.21（识别为 1.20.1）
+[22:48:50.901] [Launch] 资源版本：5
+[22:48:50.901] [Launch] 版本继承：无
+[22:48:50.901] [Launch] 分配的内存：8 GB（8192 MB）
+[22:48:50.901] [Launch] MC 文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\
+[22:48:50.901] [Launch] 版本文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\
+[22:48:50.901] [Launch] 版本隔离：True
+[22:48:50.901] [Launch] HMCL 格式：False
+[22:48:50.901] [Launch] Java 信息：JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:48:50.902] [Launch] 环境变量：未设置
+[22:48:50.902] [Launch] Natives 文件夹：D:\Aer晨1.20.1生活大冒险整合包\.minecraft\versions\1.20.1-Forge_47.2.21\1.20.1-Forge_47.2.21-natives
+[22:48:50.902] [Launch] 
+[22:48:50.902] [Launch] ~ 登录参数 ~
+[22:48:50.902] [Launch] 玩家用户名：Arits
+[22:48:50.902] [Launch] AccessToken：eyJhb*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************SaMis
+[22:48:50.902] [Launch] ClientToken：9614753d-1510-4bd6-98f3-badf2aed66bc
+[22:48:50.902] [Launch] UUID：c5ae826f83194c6f89cd06b96779a860
+[22:48:50.902] [Launch] 登录方式：Auth
+[22:48:50.902] [Launch] 
+[22:48:50.904] [Launch] [106592] 开始 Minecraft 日志监控
+[22:48:50.904] [Launch] [106592] 要求窗口标题：Aer晨【生活大冒险】
+[22:48:50.904] [Launch] [全局] 出现运行中的 Minecraft
+[22:48:51.143] [Launch] [106592] 日志 1/5：已出现日志输出
+[22:48:53.869] [Launch] [106592] Minecraft 窗口已加载：Minecraft: Forge Loading...（3017886）
+[22:48:53.870] [Launch] [106592] Minecraft 加载已完成
+[22:48:53.971] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[22:48:53.971] [Loader] 加载器 结束处理 状态改变：Loading
+[22:48:53.973] [Launch] 开始启动结束处理
+[22:48:53.973] [Launch] 启动器可见性：5
+[22:48:53.973] [Loader] 加载器 结束处理 状态改变：Finished
+[22:48:54.050] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[22:48:54.062] [Loader] 加载器 Loader Launch 状态改变：Finished
+[22:48:54.107] [UI] 弹出提示：1.20.1-Forge_47.2.21 启动成功！
+[22:48:54.108] [Taskbar] Minecraft 启动 已移出任务列表
+[22:52:17.968] [Launch] [106592] 日志 2/5：游戏用户已设置
+[22:52:17.968] [Launch] [106592] 日志 3/5：LWJGL 版本已确认
+[22:52:49.869] [Launch] [106592] 日志 4/5：OpenAL 已加载
+[22:52:49.869] [Launch] [106592] 日志 5/5：材质已加载
+[23:01:05.704] [Launch] [106592] Minecraft 已退出，返回值：0
+[23:01:05.705] [Launch] [全局] 已无运行中的 Minecraft
+[23:01:05.930] [Launch] [106592] Minecraft 日志监控已退出
+[23:01:07.022] [System] 收到关闭指令
+[23:01:07.261] [System] 程序已退出，返回值：Success
